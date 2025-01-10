@@ -1,0 +1,5 @@
+# Ignorar pastas específicas
+client/dist/
+/.cache/
+/node_modules/
+
