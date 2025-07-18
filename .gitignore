@@ -3,3 +3,4 @@ client/dist/
 /.cache/
 /node_modules/
 
+.vercel
