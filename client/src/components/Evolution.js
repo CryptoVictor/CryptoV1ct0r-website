@@ -99,7 +99,7 @@ import img95 from './imgs/evolution/491439743_18063167512990875_7527554535060121
 import img96 from './imgs/evolution/noventaseis.webp';
 
 const evolutionImages = [
-  img1, img2, img3, img4, img5, img6, img7, img8, img9, img10,
+  img96, img1, img2, img3, img4, img5, img6, img7, img8, img9, img10,
   img11, img12, img13, img14, img15, img16, img17, img18, img19, img20,
   img21, img22, img23, img24, img25, img26, img27, img28, img29, img30,
   img31, img32, img33, img34, img35, img36, img37, img38, img39, img40,
@@ -108,7 +108,7 @@ const evolutionImages = [
   img61, img62, img63, img64, img65, img66, img67, img68, img69, img70,
   img71, img72, img73, img74, img75, img76, img77, img78, img79, img80,
   img81, img82, img83, img84, img85, img86, img87, img88, img89, img90,
-  img91, img92, img93, img94, img95, img96
+  img91, img92, img93, img94, img95
 ];
 
 const IMAGES_PER_PAGE = 4;
