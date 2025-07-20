@@ -10,7 +10,7 @@ const posts = [
     content: [
       `Participating in international hackathons has always been a dream of mine — and this time, it came true in a big way. I had the chance to travel to France and attend two incredible events: ETHGlobal Cannes and the Chiliz Hackathon Paris. Here's a recap of this unforgettable journey, which I proudly called "Road to France".`,
       `Even though I'm already experienced with hackathons, nothing could've prepared me for what I experienced in Cannes. Right from the start, I was thrilled to be selected among the Top 100 hackers to receive support from the Ethereum Foundation, which granted me a spot in a Hacker House — something I'm extremely grateful for.`,
-      `My team included Kethlen Martins and Davi Abreu, both Inteli students and incredibly talented people. Together, we built Mosaic3, a project we were proud to present and develop throughout the weekend.`,
+      `My team included Kethlen Martins and Davi Abreu, both Inteli students and incredibly talented people. Together, we built a project we were proud to present and develop throughout the weekend.`,
       `The event was highly competitive, with amazing projects and an inspiring atmosphere. There was even a fireworks show on the final night! Cannes was absolutely stunning, and being part of such a vibrant environment was truly magical.`,
       `I was also glad to meet other incredible Brazilians there, such as:`,
       `• Henrique Marlon (Inteli)`,
