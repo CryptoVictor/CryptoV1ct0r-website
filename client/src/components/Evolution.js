@@ -138,7 +138,7 @@ const Evolution = () => {
   };
 
   const renderMedia = (src, idx) => {
-    if (src === video50) {
+    if (src === video50 || src === video100) {
       return (
         <video 
           key={idx} 
