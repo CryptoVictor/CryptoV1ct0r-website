@@ -112,9 +112,17 @@ import img108 from './imgs/evolution/centooito.webp';
 import img109 from './imgs/evolution/centonove.webp';
 import img110 from './imgs/evolution/centodez.webp';
 import img111 from './imgs/evolution/centoonze.webp';
+import img112 from './imgs/evolution/centodoze.webp';
+import img113 from './imgs/evolution/centotreze.webp';
+import img114 from './imgs/evolution/centocatorze.webp';
+import img115 from './imgs/evolution/centoquinze.webp';
+import img116 from './imgs/evolution/centodezesseis.webp';
+import img117 from './imgs/evolution/centodezessete.webp';
+import img118 from './imgs/evolution/centodezoito.webp';
+import img119 from './imgs/evolution/centodezenove.webp';
 
 const evolutionImages = [
-  img111,
+  img119, img118, img117, img116, img115, img114, img113, img112, img111,
   img110, img109, img108, img107, img106, img105, img104, img103, img102, img101, video100,
   img99, img98, img97, img96, img1, img2, img3, img4, img5, img6, img7, img8, img9, img10,
   img11, img12, img13, img14, img15, img16, img17, img18, img19, img20,
