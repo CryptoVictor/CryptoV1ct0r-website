@@ -279,9 +279,9 @@ a:hover {
 
 /* Dark mode toggle button */
 .theme-toggle {
-  background: var(--bg-primary);
-  color: var(--text-primary);
-  border: 1px solid var(--text-primary);
+  background: var(--accent-primary);
+  color: #fff;
+  border: none;
   border-radius: 20px;
   padding: 8px 18px;
   font-size: 1rem;
@@ -292,7 +292,7 @@ a:hover {
 }
 
 .theme-toggle:hover {
-  background: var(--accent-primary);
+  background: var(--text-primary);
   color: #fff;
   border: 1px solid var(--accent-primary);
 }
