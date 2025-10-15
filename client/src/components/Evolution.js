@@ -167,9 +167,10 @@ import img163 from './imgs/evolution/559606750_18078836563990875_725652082019989
 import img164 from './imgs/evolution/559813722_18079123021990875_9097618146463419686_n.webp';
 import img165 from './imgs/evolution/560924222_18079212559990875_8898940612173394674_n.webp';
 import img166 from './imgs/evolution/562534572_18079288285990875_3721596152726191851_n.webp';
+import img167 from './imgs/evolution/167.webp';
 
 const evolutionImages = [
-  img166,img165, img164, img163, img162, img161, img160, img159, 
+  img167, img166,img165, img164, img163, img162, img161, img160, img159, 
   img158, img157, img156, img155, img154, img153, img152, img151, img150, img149, img148, img147, img146, img145, 
   img144, img143, img142, img141, img140, img139, img138, img137, img135, img134, img133,
   img132, img131, img130, img129, img128, img127, img126, img125, img124, img123, img122,
