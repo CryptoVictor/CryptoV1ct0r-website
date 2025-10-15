@@ -292,9 +292,9 @@ a:hover {
 }
 
 .theme-toggle:hover {
-  background: var(--accent-primary);
-  color: #fff;
-  border: 1px solid var(--accent-primary);
+  background: var(--text-primary);
+  color: var(--bg-primary);
+  border: 1px solid var(--text-primary);
 }
 
 /* Responsividade extra */
@@ -314,13 +314,19 @@ a:hover {
 
 @media (max-width: 600px) {
   .header {
-    flex-direction: column;
+    flex-direction: row;
     gap: 8px;
     padding: 10px 0;
+    flex-wrap: wrap;
+    justify-content: center;
   }
   .header-right {
-    flex-direction: column;
+    flex-direction: row;
     gap: 8px;
+  }
+  .theme-toggle {
+    margin-left: 8px;
+    margin-top: 0;
   }
   .membro {
     padding: 18px 8px;
