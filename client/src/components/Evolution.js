@@ -174,9 +174,10 @@ import img170 from './imgs/evolution/dia170.png';
 import img171 from './imgs/evolution/dia171.png';
 import img172 from './imgs/evolution/dia172.png';
 import img173 from './imgs/evolution/dia173.png';
+import img174 from './imgs/evolution/dia174.png';
 
 const evolutionImages = [
-  img173, img172, img171, img170, img169, img168, img167, img166,img165, img164, img163, img162, img161, img160, img159, 
+  img174, img173, img172, img171, img170, img169, img168, img167, img166,img165, img164, img163, img162, img161, img160, img159, 
   img158, img157, img156, img155, img154, img153, img152, img151, img150, img149, img148, img147, img146, img145, 
   img144, img143, img142, img141, img140, img139, img138, img137, img136, img135, img134, img133,
   img132, img131, img130, img129, img128, img127, img126, img125, img124, img123, img122,
