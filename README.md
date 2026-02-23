@@ -2,7 +2,7 @@
 
 # CryptoV1ct0r
 
-<p> Copyright (c) 2025 Victor Garcia </p>
+<p> Copyright (c) 2026 Victor Garcia </p>
 <p> Distributed under the MIT software license, see the accompanying </p>
 <p> file LICENSE.txt or https://opensource.org/licenses/MIT </p>
 

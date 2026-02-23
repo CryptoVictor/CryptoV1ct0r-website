@@ -28,7 +28,7 @@ const AppContent = () => {
                 <a href="https://www.instagram.com/v1ct0rgarcia/" target="_blank" rel="noopener noreferrer" title="Instagram"><FaInstagram className="logo-social" size={16} /></a>
                 <a href="https://www.youtube.com/@CryptoVictor07" target="_blank" rel="noopener noreferrer" title="YouTube"><FaYoutube className="logo-social" size={16} /></a>
               </div>
-              © 2025 CryptoVictor. All rights reserved.
+              © 2026 CryptoVictor. All rights reserved.
             </footer>
         </div>
     );
