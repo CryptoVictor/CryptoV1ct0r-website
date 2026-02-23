@@ -17,6 +17,7 @@ const Contact = () => (
       <a href="https://www.youtube.com/@CryptoVictor07" target="_blank" rel="noopener noreferrer" title="YouTube">
         <FaYoutube size={64} color="#ff0000" style={{ transition: 'transform 0.2s' }} className="logo-social" />
       </a>
+
     </div>
     <p style={{ marginTop: 40, color: '#666', fontSize: 18 }}>Feel free to reach out through any of the social networks above!</p>
   </div>

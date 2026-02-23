@@ -12,7 +12,6 @@ const Header = () => {
         <NavLink className="normal-link" to="/" end>Home</NavLink>
         <NavLink className="normal-link" to="/projects">Projects</NavLink>
         <NavLink className="normal-link" to="/blog">Blog</NavLink>
-        <NavLink className="normal-link" to="/evolution">Evolution</NavLink>
       </div>
       <button 
         className="theme-toggle" 

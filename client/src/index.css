@@ -513,30 +513,9 @@ a:hover {
   justify-content: center;
 }
 
-/* Evolution grid wrapper para aplicar classe no componente */
-.evolution-grid {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 16px;
-  justify-items: center;
-}
-
-.evolution-wrapper {
-  padding: 32px 0;
-  min-height: 80vh;
-}
 
 @media (max-width: 600px) {
-  /* Evolution grid: 2 colunas no mobile */
-  .evolution-grid {
-    grid-template-columns: repeat(2, 1fr) !important;
-    gap: 10px !important;
-  }
-  /* Padding extra para o Evolution */
-  .evolution-wrapper {
-    padding: 12px 0 !important;
-  }
-  /* Centralizar quadradinhos da home no mobile - em coluna */
+/* Centralizar quadradinhos da home no mobile - em coluna */
   .container {
     flex-direction: column !important;
     gap: 12px !important;

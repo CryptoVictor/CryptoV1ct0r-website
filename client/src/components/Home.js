@@ -12,7 +12,7 @@ const Home = () => {
                         <img src={personalImg} className="imagem-circular"/>
                         <center>
                             <h3 className="fontezao3cor">CryptoVictor</h3>
-                            <h4>I'm a Computer Science student at the Institute of Technology and Leadership (Inteli) passionate about technology, blockchain, and new challenges.</h4>
+                            <h4>Web3 Engineer building DeFi infrastructure and on-chain systems.</h4>
                         </center>
                     </div>
                 </div>
