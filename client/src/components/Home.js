@@ -3,6 +3,8 @@ const personalImg = "https://plum-atomic-lemur-391.mypinata.cloud/ipfs/bafybeicf
 import projects from './projectsData';
 import posts from './postsData';
 import { Link } from 'react-router-dom';
+import { FaDownload } from 'react-icons/fa';
+import resumePdf from './docs/Resume.pdf';
 
 const Home = () => {
     return (
@@ -13,23 +15,11 @@ const Home = () => {
                         <center>
                             <h3 className="fontezao3cor">CryptoVictor</h3>
                             <h4>Web3 Engineer building DeFi infrastructure and on-chain systems.</h4>
+                            <a href={resumePdf} target="_blank" rel="noopener noreferrer" style={{ display: 'inline-flex', alignItems: 'center', gap: 8, marginTop: 12, color: 'var(--text-secondary)', fontSize: '0.95rem', textDecoration: 'none' }}>
+                                <FaDownload size={14} />
+                            </a>
                         </center>
                     </div>
-                </div>
-                <hr className="line2"></hr>
-                <br/>
-                <div style={{width: '100%', display: 'flex', justifyContent: 'center'}}>
-                  <div className="container" style={{display: 'flex', flexWrap: 'wrap', gap: 24, justifyContent: 'center', alignItems: 'center', width: 'auto', margin: 0}}>
-                      {projects.map((project, idx) => (
-                        <a href={project.link} key={project.name} target="_blank" rel="noopener noreferrer">
-                          <img
-                            src={project.image}
-                            className="image"
-                            alt={project.name}
-                          />
-                        </a>
-                      ))}
-                  </div>
                 </div>
                 <br/>
                 <hr className="line2"></hr>

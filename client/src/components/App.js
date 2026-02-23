@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Routes, Route, Link, NavLink } from 'react-router-dom';
 import { FaLinkedin, FaGithub, FaInstagram, FaYoutube, FaMoon, FaSun } from 'react-icons/fa';
+import { FaXTwitter } from 'react-icons/fa6';
 import { DarkModeProvider, useDarkMode } from '../contexts/DarkModeContext';
 import Header from './Header';
 import Home from './Home';
@@ -27,6 +28,7 @@ const AppContent = () => {
                 <a href="https://github.com/CryptoVictor" target="_blank" rel="noopener noreferrer" title="GitHub"><FaGithub className="logo-social" size={16} /></a>
                 <a href="https://www.instagram.com/v1ct0rgarcia/" target="_blank" rel="noopener noreferrer" title="Instagram"><FaInstagram className="logo-social" size={16} /></a>
                 <a href="https://www.youtube.com/@CryptoVictor07" target="_blank" rel="noopener noreferrer" title="YouTube"><FaYoutube className="logo-social" size={16} /></a>
+                <a href="https://x.com/CryptoV1ct0r" target="_blank" rel="noopener noreferrer" title="X / Twitter"><FaXTwitter className="logo-social" size={16} /></a>
               </div>
               © 2026 CryptoVictor. All rights reserved.
             </footer>
