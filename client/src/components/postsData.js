@@ -3,7 +3,7 @@ const posts = [
   {
     id: "post-3",
     title: "A Brief History of Time – Reflections After Reading",
-    subtitle: "How Hawking's classic changed my view of the world of physics.",
+    subtitle: "Reflecting on how reading A Brief History of Time by Stephen Hawking reshaped my understanding of quantum mechanics, modern physics, and the search for a deeper explanation of the universe.",
     date: "03/04/2026",
     author: "CryptoVictor",
     image: "https://plum-atomic-lemur-391.mypinata.cloud/ipfs/bafybeicnaonobsu7pw2uucarj5yz6bbhehwtopedhwfgwn2wwij7rqxobu",

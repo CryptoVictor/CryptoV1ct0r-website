@@ -9,6 +9,8 @@ import Projects from './Projects';
 import Blog from './Blog';
 import Post1 from './Posts/Post1';
 import Post2 from './Posts/Post2';
+import Post3 from './Posts/Post3';
+
 const AppContent = () => {
     return (
         <div className="app-container">
@@ -20,6 +22,7 @@ const AppContent = () => {
                     <Route path="/blog" element={<Blog/>}/>
                     <Route path="/post-1" element={<Post1/>}/>
                     <Route path="/post-2" element={<Post2/>}/>
+                    <Route path="/post-3" element={<Post3/>}/>
                 </Routes>
             </div>
             <footer className="footer">
