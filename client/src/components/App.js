@@ -11,6 +11,7 @@ import Post1 from './Posts/Post1';
 import Post2 from './Posts/Post2';
 import Post3 from './Posts/Post3';
 
+
 const AppContent = () => {
     return (
         <div className="app-container">
