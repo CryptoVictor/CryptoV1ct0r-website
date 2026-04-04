@@ -1,6 +1,24 @@
 // Exporte um array de objetos, cada um representando um post
 const posts = [
   {
+    id: "post-3",
+    title: "A Brief History of Time – Reflections After Reading",
+    subtitle: "How Hawking's classic changed my view of the world of physics.",
+    date: "03/04/2026",
+    author: "CryptoVictor",
+    image: "https://plum-atomic-lemur-391.mypinata.cloud/ipfs/bafybeicnaonobsu7pw2uucarj5yz6bbhehwtopedhwfgwn2wwij7rqxobu",
+    content: [
+      `I just finished reading A Brief History of Time by Stephen Hawking and, regardless of the recent controversies involving Epstein, what an incredible book. I have always liked physics, but it is interesting how, after reading this book, I feel a bit more confident saying that I now have a better general understanding of physics. It introduced me to conceptual ideas that I had never imagined before.`,
+      `One of the things I have been doing lately is watching a lot of content about quantum computing. Interestingly, the book helped answer one of the biggest questions I was never able to fully understand about the uncertainty principle. I used to think that superposition was something literal. In my mind, a particle in quantum superposition could literally exist in two places at the same time depending on the probability of being there. Now I understand that this is not really the correct interpretation. Superposition is treated algebraically within the mathematical framework of quantum mechanics. Since we cannot directly access all the information through measurement, physicists use the probabilities derived from the equations of quantum mechanics as the best description available.`,
+      `Another concept the book clarified for me was how Hawking radiation works. Hawking explains it very clearly, which makes sense considering that he himself formulated the theory. It was fascinating to read the explanation directly from the person who developed the idea.`,
+      `The book also gave me a new perspective on the so called Theory of Everything, the theory physicists are searching for in order to unify physics. It shows how modern physics, with its Standard Model of quarks, gluons, mesons and other particles, operates at an astonishing level of abstraction when describing the universe.`,
+      `I feel that reading this book improved my understanding a lot, and it will certainly help me with some concepts related to quantum computing and conversations I might have with friends and colleagues at university. Jokes aside, I really believe this is a book everyone should read, even if it is simply to expand their understanding of the world and how it works.`,
+      `I admit that the book also gave me a more grounded and less intimidating view of these concepts. As I mentioned earlier, I had an incorrect interpretation of the uncertainty principle in quantum mechanics. Learning more about these ideas made them feel more understandable and less mysterious. I believe that knowing a little more about the unknown often has that effect.`,
+      `In any case, I love physics. Even if I did not, this would still be a fantastic book. I highly recommend it to everyone.`,
+      `Thank you for reading.\nCryptoVictor`
+    ]
+  },
+  {
     id: "post-2",
     title: "My Road to France: Two Unforgettable Journeys at ETHGlobal Cannes and Chiliz Paris",
     subtitle: "A trip filled with learning, innovation, friendship, and inspiration in the Web3 universe.",
