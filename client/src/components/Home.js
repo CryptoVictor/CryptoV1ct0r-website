@@ -24,7 +24,7 @@ const Home = () => {
                 <br/>
                 <hr className="line2"></hr>
                 <div className="projects-container">
-                    {posts.map(post => (
+                    {posts.slice(0, 2).map(post => (
                       <Link to={`/${post.id}`} className="post-link" key={post.id}>
                         <div className="project-card">
                           <img src={post.image} className="project-logo" alt={post.title} />
