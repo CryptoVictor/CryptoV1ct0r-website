@@ -1,5 +1,6 @@
 import React from 'react';
 import posts from '../postsData';
+import GoogleAd from '../GoogleAd';
 
 const Post2 = () => {
     const post = posts.find(p => p.id === "post-2");
@@ -23,6 +24,7 @@ const Post2 = () => {
                     {paragraph}
                 </p>
             ))}
+            <GoogleAd />
         </div>
     );
 };
