@@ -1,6 +1,39 @@
 // Exporte um array de objetos, cada um representando um post
 const posts = [
   {
+    id: "post-4",
+    title: "Meditations by Marcus Aurelius – Reflections After Reading",
+    subtitle: "Reflecting on how reading Meditations by Marcus Aurelius expanded my understanding of Stoicism, self-discipline, and the way we deal with adversity in everyday life.",
+    date: "30/05/2026",
+    author: "CryptoVictor",
+    image: "https://plum-atomic-lemur-391.mypinata.cloud/ipfs/bafkreibsiyiqytu6zuxj4chglpgjfrhns4aubrunssjw3vdwau3ezagbje",
+    content: [
+      `Continuing my series of reflections after finishing books, I have finally read one that had been on my list for years: Meditations by Marcus Aurelius. I have a lot to say about this one.`,
+      
+      `I was first introduced to Stoicism back in 2021 through videos by Hamlet Arl, who often analyzed cartoons and movies from a philosophical perspective. Since then, I had heard Meditations mentioned countless times. The book became one of those things I always intended to read but never quite got around to. Five years later, after applying Stoic ideas here and there and learning from people like Rafael Gratta and many others who frequently referenced Stoic principles, I finally decided to read one of the original works of Stoicism itself.`,
+      
+      `What surprised me most is that the book expanded my understanding of Stoicism beyond what I had previously imagined. Marcus Aurelius never intended these writings to be published. They were personal notes, reminders written for himself. Yet somehow he manages to explain his beliefs in a way that feels remarkably simple, clear, and surprisingly modern despite being written nearly two thousand years ago.`,
+      
+      `One of the most fascinating aspects of the book was how it offers glimpses into his life and the world he lived in. While reading, I often found myself imagining what it must have been like to govern the Roman Empire. At the same time, many of the struggles, concerns, and observations he writes about feel incredibly familiar. It was striking to realize how developed parts of society already were and how many aspects of human nature remain unchanged.`,
+      
+      `As for the philosophy itself, one thing Marcus Aurelius emphasizes repeatedly is its practicality. Stoicism, at least as presented in Meditations, is not a philosophy that gets lost in endless speculation, contradictions, or abstract intellectual exercises. It is action-oriented. It focuses on how to live, how to think, and how to respond to reality. There is a simplicity to it that I found extremely powerful.`,
+      
+      `The book also gave me a perspective on focus that I did not fully have before. Combined with modern ideas about mental health and well-being, many of the reflections helped me better understand how my own mind works. One idea that stayed with me is that thoughts and emotional triggers do not truly control us. They are more like bright lights shining into our eyes. They can distort our perception of the path ahead, but they do not determine where we walk. Our responsibility is to keep moving in the direction we choose, even when those lights are trying to distract us.`,
+      
+      `At times, the book can feel repetitive. However, I think that repetition makes perfect sense once we remember that Marcus Aurelius was not writing for an audience. These notes were personal exercises. Over the course of twelve books, written throughout different periods of his life as emperor, he was constantly revisiting ideas, reminding himself of lessons he believed were important, and reinforcing principles he wanted to apply in his own life.`,
+      
+      `Another thing I appreciated was the calmness of the book. Marcus Aurelius never feels preachy or dramatic. He simply explains his reasoning and observations about nature, human behavior, and what he believes constitutes a good life. There is a sense of tranquility throughout the entire work that I found refreshing.`,
+      
+      `Reading Meditations also reinforced something many people say about books: when you read a book carefully, a small part of it stays with you. I do not feel more like Marcus Aurelius after reading it, but I do feel as though I gained an additional perspective that I can carry with me when facing difficulties. It is a perspective that has survived for centuries because it addresses problems that are deeply human. Rather than encouraging constant worry about countless possibilities, it repeatedly brings us back to simplicity, action, and the present moment.`,
+      
+      `This is honestly a book I wish I had read much earlier in life. I think it would have helped shape my worldview and strengthen principles that I only discovered gradually over the years. Whether or not someone agrees with every Stoic idea, there is a great deal of wisdom in these pages.`,
+      
+      `This is not really a formal review. It is simply a collection of thoughts and impressions after finishing a book that I genuinely consider a masterpiece. In a way, it even inspires us to become different people, perhaps slightly more resilient, more disciplined, and maybe even a little more Stoic.`,
+      
+      `Thank you for reading.\nCryptoVictor`
+    ]
+  },
+  {
     id: "post-3",
     title: "A Brief History of Time – Reflections After Reading",
     subtitle: "Reflecting on how reading A Brief History of Time by Stephen Hawking reshaped my understanding of quantum mechanics, modern physics, and the search for a deeper explanation of the universe.",
