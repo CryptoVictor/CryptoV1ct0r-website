@@ -20,7 +20,7 @@ const AppContent = () => {
             <div className="appzin">
                 <Routes>
                     <Route path="/" element={<Home/>}/>
-                    <Route path="/projects" element={<Projects/>}/>
+                    <Route path="/history" element={<Projects/>}/>
                     <Route path="/blog" element={<Blog/>}/>
                     <Route path="/post-1" element={<Post1/>}/>
                     <Route path="/post-2" element={<Post2/>}/>

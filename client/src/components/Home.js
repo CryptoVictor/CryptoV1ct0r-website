@@ -1,5 +1,5 @@
 import React from 'react';
-const personalImg = "https://plum-atomic-lemur-391.mypinata.cloud/ipfs/bafybeicfwua22pwlordmjn47grln6nhay4neylufko4w5sllhsvmudcd54";
+const personalImg = "https://plum-atomic-lemur-391.mypinata.cloud/ipfs/bafybeiawz2ml5i55rs634cqtmghp7qb32ginxzffzsxx46fmthwpqunay4";
 import projects from './projectsData';
 import posts from './postsData';
 import { Link } from 'react-router-dom';

@@ -1,13 +1,19 @@
 const projects = [
   {
-    name: "Picnic",
-    description: "Building the future of finance with Smart Accounts, Account Abstraction, and DeFi innovation.",
-    image: "https://plum-atomic-lemur-391.mypinata.cloud/ipfs/bafkreidz2wuwnihmmueob3xrukfux4slg2izi5sikvotlm3owpjlfr35ia",
-    link: "https://site.usepicnic.com/"
+    name: "Nexus Labs",
+    description: "The Layer 1 for Verifiable Finance.",
+    image: "https://pbs.twimg.com/profile_images/1887351274955546627/jlvN83vR_400x400.jpg",
+    link: "https://nexus.xyz/"
   }
 ];
 
 export const oldProjects = [
+  {
+    name: "Picnic",
+    description: "Building the future of finance with Smart Accounts, Account Abstraction, and DeFi innovation.",
+    image: "https://plum-atomic-lemur-391.mypinata.cloud/ipfs/bafkreidz2wuwnihmmueob3xrukfux4slg2izi5sikvotlm3owpjlfr35ia",
+    link: "https://site.usepicnic.com/"
+  },
   {
     name: "Panorama Block",
     description: "Fusing multi-chain data pipelines with AI reasoning frameworks to empower decentralized, composable financial automation.",
