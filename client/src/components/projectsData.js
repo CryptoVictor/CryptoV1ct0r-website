@@ -12,7 +12,7 @@ export const oldProjects = [
     name: "Picnic",
     description: "Building the future of finance with Smart Accounts, Account Abstraction, and DeFi innovation.",
     image: "https://plum-atomic-lemur-391.mypinata.cloud/ipfs/bafkreidz2wuwnihmmueob3xrukfux4slg2izi5sikvotlm3owpjlfr35ia",
-    link: "https://site.usepicnic.com/"
+    link: "https://usepicnic.com"
   },
   {
     name: "Panorama Block",
