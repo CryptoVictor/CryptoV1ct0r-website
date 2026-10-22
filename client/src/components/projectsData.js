@@ -4,12 +4,6 @@ const projects = [
     description: "Inteli (Instituto de Tecnologia e Liderança) is a private, non-profit technology university located in São Paulo, Brazil. Founded in 2019 by financial sector entrepreneurs Roberto Sallouti and André Esteves (associated with BTG Pactual), the institute operates out of a campus within the USP ecosystem. It was established with a philanthropic mission to train future leadership figures capable of transforming society through technology.",
     image: "https://plum-atomic-lemur-391.mypinata.cloud/ipfs/bafkreifptypd5tkbvt4lhajisiyd7kb3fge6mgvtpge5brlu3dv77ilhxu",
     link: "https://www.inteli.edu.br/en/"
-  },
-  {
-    name: "Inteli Quantum",
-    description: "Official quantum club at Inteli",
-    image: "https://plum-atomic-lemur-391.mypinata.cloud/ipfs/bafkreicxl2dw5o63szhkdguwj2vvvh3zusbfbz5s3nhvrx75wf3ywrmdyu",
-    link: "https://www.linkedin.com/company/quantum-inteli/"
   }
 ];
 
@@ -19,6 +13,12 @@ export const oldProjects = [
     description: "The Layer 1 for Verifiable Finance.",
     image: "https://plum-atomic-lemur-391.mypinata.cloud/ipfs/bafkreigh7ixxfoyzb22pmxrz6bise6hjdbc7ujyz3kppcoz4a5l523zvvu",
     link: "https://nexus.xyz/"
+  },
+  {
+    name: "Inteli Quantum",
+    description: "Official quantum club at Inteli",
+    image: "https://plum-atomic-lemur-391.mypinata.cloud/ipfs/bafkreicxl2dw5o63szhkdguwj2vvvh3zusbfbz5s3nhvrx75wf3ywrmdyu",
+    link: "https://www.linkedin.com/company/quantum-inteli/"
   },
   {
     name: "Picnic",
