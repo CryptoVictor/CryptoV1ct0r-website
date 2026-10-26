@@ -1,5 +1,5 @@
 import React from 'react';
-import { FaLinkedin, FaGithub, FaInstagram, FaYoutube } from 'react-icons/fa';
+import { FaLinkedin, FaGithub, FaInstagram, FaYoutube, FaGraduationCap } from 'react-icons/fa';
 
 const Contact = () => (
   <div style={{ minHeight: '60vh', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
@@ -16,6 +16,9 @@ const Contact = () => (
       </a>
       <a href="https://www.youtube.com/@CryptoVictor07" target="_blank" rel="noopener noreferrer" title="YouTube">
         <FaYoutube size={64} color="#ff0000" style={{ transition: 'transform 0.2s' }} className="logo-social" />
+      </a>
+      <a href="http://lattes.cnpq.br/3801437387394286" target="_blank" rel="noopener noreferrer" title="Lattes">
+        <FaGraduationCap size={64} color="#1a4a8a" style={{ transition: 'transform 0.2s' }} className="logo-social" />
       </a>
 
     </div>
