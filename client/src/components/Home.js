@@ -14,7 +14,7 @@ const Home = () => {
                         <img src={personalImg} className="imagem-circular"/>
                         <center>
                             <h3 className="fontezao3cor">CryptoVictor</h3>
-                            <h4>Web3 Engineer building DeFi infrastructure and on-chain systems.</h4>
+                            <h4>Quantum Computing Researcher</h4>
                             <a href={resumePdf} target="_blank" rel="noopener noreferrer" style={{ display: 'inline-flex', alignItems: 'center', gap: 8, marginTop: 12, color: 'var(--text-secondary)', fontSize: '0.95rem', textDecoration: 'none' }}>
                                 <FaDownload size={14} />
                             </a>
