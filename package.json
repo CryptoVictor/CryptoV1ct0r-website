@@ -5,7 +5,8 @@
   "scripts": {
     "start": "npm run build-client && node index.js",
     "dev": "npm run dev-client & nodemon index.js",
-    "build-client": "npm run clean && parcel build client/src/index.html --out-dir client/dist --public-url ./",
+    "build-client": "npm run clean && parcel build client/src/index.html --out-dir client/dist --public-url /",
+    "build": "npm run build-client",
     "dev-client": "npm run clean && parcel client/src/index.html --out-dir client/dist",
     "clean": "rm -rf .cache client/dist"
   },
