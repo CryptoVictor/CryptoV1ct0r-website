@@ -5,7 +5,6 @@ import { FaXTwitter } from 'react-icons/fa6';
 import { DarkModeProvider, useDarkMode } from '../contexts/DarkModeContext';
 import Header from './Header';
 import Home from './Home';
-import Projects from './Projects';
 import Blog from './Blog';
 import Post1 from './Posts/Post1';
 import Post2 from './Posts/Post2';
@@ -20,7 +19,6 @@ const AppContent = () => {
             <div className="appzin">
                 <Routes>
                     <Route path="/" element={<Home/>}/>
-                    <Route path="/history" element={<Projects/>}/>
                     <Route path="/blog" element={<Blog/>}/>
                     <Route path="/post-1" element={<Post1/>}/>
                     <Route path="/post-2" element={<Post2/>}/>
